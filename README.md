@@ -1,1 +1,6 @@
 # Lab-2
+class A {
+public static void main(String args[]){
+	system.out.println("Hello world");
+	}
+}
